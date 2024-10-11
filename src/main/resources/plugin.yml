@@ -1,0 +1,9 @@
+
+name: UltimateLobbyPlugin
+version: 1.0
+author: Your Name
+main: org.derjannik.ultimatelobbyplugin.UltimateLobbyPlugin
+commands:
+  lobby:
+    description: Lobby management commands
+    usage: /lobby <help|set|delete>
