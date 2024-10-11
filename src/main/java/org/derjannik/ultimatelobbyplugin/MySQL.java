@@ -15,4 +15,6 @@ public class MySQL {
         this.username = username;
         this.password = password;
     }
+
+    // Placeholder methods for MySQL operations
 }
